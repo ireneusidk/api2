@@ -2,7 +2,7 @@
   "name": "parcialpw2",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "/src/app.js",
   "scripts": {
     "start": "node src/app.js",
     "dev": "node src/app.js"
